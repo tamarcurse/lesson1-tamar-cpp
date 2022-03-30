@@ -1,0 +1,2 @@
+C:\Users\HOME\Documents\irox\c++\lesson1-tamarIndurski\Debug\lesson1-tamarIndurski.exe
+C:\Users\HOME\Documents\irox\c++\lesson1-tamarIndurski\Debug\lesson1-tamarIndurski.pdb
